@@ -55,7 +55,7 @@ The pipeline follows a strict architectural flow:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/Outamation-AI-Document-Insights.git](https://github.com/yourusername/Outamation-AI-Document-Insights.git)
+    git clone [https://github.com/AnshulGhildiyal/Outamation-AI-Document-Insights.git](https://github.com/yourusername/Outamation-AI-Document-Insights.git)
     cd Outamation-AI-Document-Insights
     ```
 
