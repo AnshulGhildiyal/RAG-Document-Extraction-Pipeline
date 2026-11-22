@@ -209,20 +209,17 @@ Notes:
 - Tests use mocks/temporary data and do not require a real `GEMINI_API_KEY` or internet access.
 - `tests/test_storage.py` is skipped automatically if `chromadb` is not installed in the environment.
 
-## Team Contributions (Proposed Workload Allocation)
-| Member | Role | Contribution |
-|---|---|---:|
-| Anshul | Project Lead, Core Architecture and Algorithms | 35% |
-| Ravi | Backend Services and Data Processing | 30% |
-| Sarthak | User Interface and Application Integration | 30% |
-| Jivika | Quality Assurance and Documentation | 5% |
+## Team Members
 
-See [docs/TEAM_CONTRIBUTIONS.md](docs/TEAM_CONTRIBUTIONS.md) for detailed ownership and responsibilities. Percentages represent proposed workload allocation, not measured Git statistics.
+- Anshul
+- Ravi
+- Sarthak
+- Jivika
 
 ## Documentation
 - [docs/PROJECT_REPORT.md](docs/PROJECT_REPORT.md) — MCA project report
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) — architecture and design details
-- [docs/TEAM_CONTRIBUTIONS.md](docs/TEAM_CONTRIBUTIONS.md) — team ownership matrix
+- [docs/TEAM_CONTRIBUTIONS.md](docs/TEAM_CONTRIBUTIONS.md) — team members
 - [docs/VIVA_PREPARATION.md](docs/VIVA_PREPARATION.md) — viva questions and answers
 
 ## Limitations
