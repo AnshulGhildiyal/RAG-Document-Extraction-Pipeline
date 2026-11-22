@@ -339,13 +339,4 @@ The project successfully refactors the original notebook-based RAG prototype int
 7. Gradio Documentation: https://www.gradio.app/docs
 8. pytest Documentation: https://docs.pytest.org/
 
-## 24. Team Contribution Matrix
-
-| Member | Role | Contribution | Key Responsibilities | Primary Modules/Files |
-|---|---|---:|---|---|
-| Anshul | Project Lead, Core Architecture and Algorithms | 35% | Core architecture, config/models, classification, chunking, embeddings, retrieval/RRF, storage architecture, pipeline integration | `core/*`, `storage/vector_store.py`, `main.py` |
-| Ravi | Backend Services and Data Processing | 30% | Extraction/fallback, document processing services, Gemini generation, validation, exceptions, logging | `services/*`, `utils/logger.py` |
-| Sarthak | User Interface and Application Integration | 30% | Gradio UI, backend integration, formatting/presentation, database UI actions, UX/error handling | `interface/*`, `run.py` |
-| Jivika | Quality Assurance and Documentation | 5% | Test organization/fixtures, dependency and academic documentation, README/docs support | `tests/*`, `docs/*`, `requirements.txt`, `.env.example`, `README.md` |
-
 *Contribution percentages represent proposed workload allocation, not measured Git statistics.*
