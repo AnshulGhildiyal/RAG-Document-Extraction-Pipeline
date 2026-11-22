@@ -274,7 +274,7 @@ flowchart TB
 4. **Integration:** Implemented `RAGPipeline` orchestration and Gradio backend callbacks
 5. **Hardening:** Added env-based config, validation, logging, custom exceptions, and persistence fixes
 6. **Testing:** Implemented pytest suite with mocks/temporary data and executed tests
-7. **Documentation:** Prepared README and academic documents (architecture, report, contributions, viva)
+7. **Documentation:** Prepared README and academic documents (architecture, report, team members, viva)
 
 ## 18. Testing Methodology
 Automated tests were implemented using `pytest` with isolated temporary paths and mocked dependencies where appropriate.
@@ -339,4 +339,9 @@ The project successfully refactors the original notebook-based RAG prototype int
 7. Gradio Documentation: https://www.gradio.app/docs
 8. pytest Documentation: https://docs.pytest.org/
 
-*Contribution percentages represent proposed workload allocation, not measured Git statistics.*
+## 24. Team Members
+
+- Anshul
+- Ravi
+- Sarthak
+- Jivika
